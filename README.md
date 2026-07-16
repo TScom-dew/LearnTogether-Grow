@@ -73,6 +73,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.ashlokkumar.me/"><img src="https://avatars.githubusercontent.com/u/228381444?v=4?s=100" width="100px;" alt="Ashlok Kumar"/><br /><sub><b>Ashlok Kumar</b></sub></a><br /><a href="https://github.com/TScom-dew/LearnTogether-Grow/commits?author=TScom-dew" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/johannsoetbeer"><img src="https://avatars.githubusercontent.com/u/234805101?v=4?s=100" width="100px;" alt="JohannSoetbeer"/><br /><sub><b>JohannSoetbeer</b></sub></a><br /><a href="https://github.com/TScom-dew/LearnTogether-Grow/commits?author=johannsoetbeer" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Gustavo-Harnisch"><img src="https://avatars.githubusercontent.com/u/138950084?v=4?s=100" width="100px;" alt="Gustavo Harnisch"/><br /><sub><b>Gustavo Harnisch</b></sub></a><br /><a href="https://github.com/TScom-dew/LearnTogether-Grow/commits?author=Gustavo-Harnisch" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
