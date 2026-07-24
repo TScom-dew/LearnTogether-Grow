@@ -46,20 +46,6 @@ Beginners, students, and self-learners. No experience required. Mistakes are wel
 
 
 
-**Maintained by [TScom-dew.Ashlok Kumar](https://github.com/TScom-dew) | BCA (2025-28) student at VBU, Hazaribagh.**
-
-
-
-
----
-
-
-<p align="center">
-  👋 Welcome, fellow learners! Everyone is welcome to contribute and grow together. <br>
-  ❤️ Happy Coding! Let's build something amazing.
-</p>
-
-
 
 ## Contributors ✨
 
@@ -94,3 +80,21 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+
+---
+
+
+
+**Maintained by [TScom-dew.Ashlok Kumar](https://github.com/TScom-dew) | BCA (2025-28) student at VBU, Hazaribagh.**
+
+
+
+
+---
+
+
+<p align="center">
+  👋 Welcome, fellow learners! Everyone is welcome to contribute and grow together. <br>
+  ❤️ Happy Coding! Let's build something amazing.
+</p>
