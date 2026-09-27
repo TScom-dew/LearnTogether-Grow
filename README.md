@@ -66,7 +66,7 @@ Thanks goes to these wonderful people!
      
    <td align="center" valign="top" width="14.28%"><a href="https://github.com/0-BaBa"><img src="https://avatars.githubusercontent.com/u/296372092?v=4?s=100" width="100px;" alt="0-BaBa"/><br /><sub><b>Jr</b></sub></a><br /><a href="https://github.com/TScom-dew/LearnTogether-Grow/commits?author=0-BaBa" title="Code">💻</a></td>
      
-  <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sarah-Mahmoud-29"><img src="https://avatars.githubusercontent.com/u/325633017?v=4?s=100" width="100px;" alt="Sarah-Mahmoud"/><br /><sub><b>Jr</b></sub></a><br /><a href="https://github.com/TScom-dew/LearnTogether-Grow/commits?author=Sarah-Mahmoud-29" title="Code">💻</a></td>
+  <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sarah-Mahmoud-29"><img src="https://avatars.githubusercontent.com/u/325633017?v=4?s=100" width="100px;" alt="Sarah-Mahmoud"/><br /><sub><b>Sarah Mahmoud</b></sub></a><br /><a href="https://github.com/TScom-dew/LearnTogether-Grow/commits?author=Sarah-Mahmoud-29" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
