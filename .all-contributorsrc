@@ -55,9 +55,19 @@
       "contributions": [
         "code"
       ]
+    },
+
+    {
+      "login": "Sarah-Mahmoud-29",
+      "name": "Sarah Mahmoud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325633017?v=4",
+      "profile": "https://github.com/Sarah-Mahmoud-29",
+      "contributions": [
+        "code"
+      ]
     }
 
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 8,
   "linkToUsage": true
 }
